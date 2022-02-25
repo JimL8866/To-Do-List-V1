@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "to-do-list-v1",
+  "version": "1.0.0",
+  "description": "This is a to do list app version 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J L",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "data.js": "^0.12.11",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "g": "^2.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
